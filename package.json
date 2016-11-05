@@ -1,0 +1,27 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "sandbox",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jedlehman@github.com/jedlehman/sandbox.git"
+  },
+  "author": "Jed Lehman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedlehman/sandbox/issues"
+  },
+  "homepage": "https://github.com/jedlehman/sandbox#readme",
+   "devDependencies": {
+    "http-server": "^0.9.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-less": "^1.4.0"
+ }
+}
